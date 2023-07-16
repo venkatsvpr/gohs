@@ -1,4 +1,4 @@
-module github.com/flier/gohs
+module github.com/venkatsvpr/gohs
 
 go 1.18
 
